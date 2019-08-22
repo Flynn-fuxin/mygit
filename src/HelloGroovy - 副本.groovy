@@ -422,7 +422,11 @@ println result
 def list3 = str2.collect{
     String s -> s.toUpperCase()
 }
+<<<<<<< HEAD
 
+=======
+println list.toString()
+>>>>>>> flynn
 
 
 
