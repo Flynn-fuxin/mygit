@@ -1,7 +1,3 @@
-import java.time.temporal.Temporal
-
-println("helloGroovy")
-
     /*Groovy中的变量
     1.1、变量的类型：基本类型（java中的int,float,double,byte,char,long,short）
     和对象类型(String等) （Groovy中最终都是对象类型）*/
