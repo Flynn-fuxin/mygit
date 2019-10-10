@@ -415,11 +415,6 @@ def result2 = str2.any{
 println result
 
 
-def list3 = str2.collect{
-    String s -> s.toUpperCase()
-}
-
-
 
 
 
